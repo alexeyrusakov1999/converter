@@ -21,7 +21,7 @@ function App() {
     Криптовалюты: ["BTC", "ETH", "USDTTRC"],
     Наличные: ["CASHUSD", "CASHRUB"],
     "Банки RUB": ["ACRUB", "SBERRUB", "TCSBRUB"],
-    "Банки UAH": ["ACUAH", "MONOBANKUAH"],
+    "Банки UAH": ["ACUAH", "MONOBANKUAH", "P24UAH", "CARDUAH"],
   };
 
   const filteredConversionCurrencies = useSelector(
